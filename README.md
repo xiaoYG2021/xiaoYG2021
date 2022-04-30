@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @xiaoYG2021
-- 👀 I’m interested in Python, C++
-- 🌱 I’m currently learning C, Java, Html, JavaScript ans CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me QQ 196162502
+- 👋 Hi, I’m @xiaoYG2021.
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning C, C++, Java, Html, JavaScript ans CSS.
 
 <!---
 xiaoYG2021/xiaoYG2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
